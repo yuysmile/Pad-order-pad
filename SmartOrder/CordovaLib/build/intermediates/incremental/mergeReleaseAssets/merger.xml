@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\AndroidProject\SmartOrder\CordovaLib\assets"/><source path="C:\AndroidProject\SmartOrder\CordovaLib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\AndroidProject\SmartOrder\CordovaLib\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    border:0;
+}
+.roll{
+    width: 1010px;
+    height:780px;
+    margin:0px auto;
+    padding:0px;
+    position: relative;
+}
+.btn_left{
+    display:block;
+    width:70px;
+    height:1000px;
+    font-size:70px;
+    color:white;
+    line-height:750px;
+    text-align:center;
+    background: transparent;
+    position: absolute;
+    top:0px;
+    left: 1px;
+    z-index: 1;
+    opacity:0.5;
+}
+.btn_right{
+    display: block;
+    width: 70px;
+    height:1000px;
+    line-height:750px;
+    font-size:70px;
+    text-align:center;
+    color:white;
+    background: transparent;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 1;
+    opacity:0.5;
+}
+.roll .wrap {
+    width:1010px;
+    height: 780px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    /*border: 1px solid;  */
+}
+
+.roll ul{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.roll li{
+    float: left;
+    width: 1010px;
+    height: 780px;
+    text-align: center;
+}
+
+.roll li a:hover{
+    position:relative;
+    top:2px;
+}
+
+.control{
+    /*border-bottom: 1px solid;*/
+    margin: 0 auto;
+    text-align: center;
+    background: #eee;
+    padding: 20px 0;
+}
+。ads_infor{
+    color:white;
+}
